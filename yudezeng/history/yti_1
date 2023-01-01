@@ -1,0 +1,8 @@
+apt install git 
+echo y|pacman -S git
+git clone https://gitee.com/yudezeng/proot_proc 
+version=$(cat proot_proc/version)
+larv=$(cat proot_proc/ord)
+newm=yutoolsv$version.sh
+rm -rf proot_proc 
+bash -c "$(curl https://gitee.com/yudezeng/yutools/raw/master/$newm)"

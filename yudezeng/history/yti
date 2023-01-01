@@ -1,0 +1,79 @@
+sleep 0.6
+echo 正在初始化
+sleep 0.6
+date_t=`date +"%D"`
+if ! grep -q $date_t ".date_tmp.1.log" 2>/dev/null; then
+        echo $date_t >>.date_tmp.1.log 2>&1
+case $(uname -o) in
+Android|android)
+echo 尝试apt来安装依赖
+sleep 0.6
+echo Trying to use apt install depends
+sleep 0.6
+apt update
+apt install termux-api -y 2>/dev/null
+apt install git aria2 wget neofetch bash whiptail gawk -y 2>/dev/null
+sleep 1
+;;
+GNU/Linux)
+if [ ! $(command -v apt) ] 
+then
+if [ ! $(command -v pacman) ]
+then
+echo 不受支持的操作系统
+exit 1
+else
+echo 尝试pacman来进行安装依赖
+sleep 0.6
+pacman -Sy
+echo y|pacman -S git aria2 wget neofetch libnewt gawk 2>/dev/null
+sleep 0.6
+fi
+else
+echo 尝试apt来安装依赖
+sleep 0.6
+echo Trying to use apt install depends
+sleep 0.6
+apt update
+apt install git aria2 wget neofetch bash whiptail gawk -y 2>/dev/null
+sleep 0.6
+fi
+;;
+esac
+fi
+#git clone https://gitee.com/yudezeng/proot_proc 
+if (whiptail --title "choose use yutools menu" --yes-button "最新版" --no-button "手动选择"  --yesno "选择使用的版本" 10 60) then   
+version=$(curl https://gitee.com/yudezeng/proot_proc/raw/master/version)
+larv=$(curl https://gitee.com/yudezeng/proot_proc/raw/master/ord)
+newm=yutoolsv$version.sh
+#rm -rf proot_proc 
+else
+input=$(whiptail --clear --title "choose yutools menu" --menu "建议优先考虑最新版本   (ps:自v0.6及以后的版本都支持tui)" 18 50 8 "22" "v0.7.3-bata" "21" "v0.7.3-dev" "20" "v0.7.2" "19" "v0.7.1" "18" "v0.7" "17" "v0.6.9" "16" "v0.6.8" "15" "v0.6.7" "14" "v0.6.6" "13" "v0.6.5" "12" "v0.6.4" "11" "v0.6.3" "10" "v0.6.2" "9" "v0.6.1" "8" "v0.6" "7" "v0.5.1" "6" "v0.5" "5" "v0.4.8" "4" "v0.4.7" "3" "v0.4.6" "2" "v0.4.2" "1" "v0.4(暂时无法使用)" "0" "退出"  3>&1 1>&2 2>&3)
+case $input in
+0) exit 1 ;;
+1) newm=yutoolsv0.4.sh ;;
+2) newm=yutoolsv0.4.2.sh ;;
+3) newm=yutoolsv0.4.6.sh ;;
+4) newm=yutoolsv0.4.7.sh ;;
+5) newm=yutoolsv0.4.8.sh ;;
+6) newm=yutoolsv0.5.sh ;;
+7) newm=yutoolsv0.5.1.sh ;;
+8) newm=yutoolsv0.6.sh ;;
+9) newm=yutoolsv0.6.1.sh ;;
+10) newm=yutoolsv0.6.2.sh ;;
+11) newm=yutoolsv0.6.3.sh ;; 
+12) newm=yutoolsv0.6.4.sh ;;
+13) newm=yutoolsv0.6.5.sh ;;
+14) newm=yutoolsv0.6.6.sh ;;
+15) newm=yutoolsv0.6.7.sh ;;
+16) newm=yutoolsv0.6.8.sh ;;
+17) newm=yutoolsv0.6.9.sh ;;
+18) newm=yutoolsv0.7.sh ;;
+19) newm=yutoolsv0.7.1.sh ;;
+20) newm=yutoolsv0.7.2.sh ;;
+21) newm=yutoolsv0.7.3-dev.sh;;
+22) newm=yutoolsv0.7.3-bata.sh;;
+*)exit 1;;
+esac
+fi
+bash -c "$(curl https://gitee.com/yudezeng/yutools/raw/master/$newm)"
