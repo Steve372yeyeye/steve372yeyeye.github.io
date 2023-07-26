@@ -45,6 +45,25 @@
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
   </entry>
   <entry>
+    <title>珊瑚宫心海养成指南</title>
+    <url>/20220915/233651/</url>
+    <content><![CDATA[<p><font  face="宋体">献给各位抽到心海的同学们~</font><br><font  face="宋体"><br><img src="https://img.gejiba.com/images/9b0eb764a0ac82311a641c0c879ec1ec.jpg"><br><img src="https://img.gejiba.com/images/32d21d0e305c9d5a21a56fb8dc992737.gif"></p>
+<h2 id="圣遗物"><a href="#圣遗物" class="headerlink" title="圣遗物"></a>圣遗物</h2><p>建议使用<font face="宋体" color=#9393FF><strong>海</font><font  face="宋体" color=#FF60AF>染</font><font face="宋体" color=#46A3FF>四件套</strong></font>。<br>双爆<font face="宋体" color=red><strong>越少越好，不要堆双爆</strong></font>。</p>
+<h3 id="词条"><a href="#词条" class="headerlink" title="词条"></a>词条</h3><p><font  face="宋体">生之花：<font face="宋体" color=red><strong>生命值</strong></font><br><img src="https://img.gejiba.com/images/07ad11abca89d87bd1ae38612e54cbe4.jpg"><br>死之羽：<font face="宋体" color=red><strong>攻击力</strong></font><br><img src="https://img.gejiba.com/images/ea4acec0d7fd5b0ff0bb789fb965d28e.jpg"><br>理之冠：<font color=red><strong>治疗加成</strong></font>（可以使用生命）<br><img src="https://img.gejiba.com/images/6865e4d0d785f80d26c9b51409787372.jpg"><br>时之沙：<font color=red><strong>生命值</strong></font><br><img src="https://img.gejiba.com/images/d7763d67dab5e0bc3a78c0f63c197824.jpg"><br>空之杯：<font color=red><strong>水元素伤害加成</strong></font><br><img src="https://img.gejiba.com/images/989b021bb7fa09b6cfa7cf591337f2dd.jpg"><br></font></p>
+<h2 id="武器"><a href="#武器" class="headerlink" title="武器"></a>武器</h2><p>使用<font face="宋体" color=#CA8EC2><strong>试作金铂</strong></font>即可。如果追求更高可以抽取<font color=#FFD306><strong>不灭月华</strong></font>。</p>
+<h2 id="命座"><a href="#命座" class="headerlink" title="命座"></a>命座</h2><p>零命即可，一般没必要抽取命座。</p>
+<h2 id="组队"><a href="#组队" class="headerlink" title="组队"></a>组队</h2><p>可以放进<b>“神鹤万心”</b>配合打永冻流：<br><font color=#FFD306><strong>神里绫华</strong></font>、<font color=#FFD306><strong>珊瑚宫心海</strong></font>、<font color=#FFD306><strong>申鹤</strong></font>、<font color=#FFD306><strong>枫原万叶</strong></font>。</p>
+<p><font face="宋体">还有心海武装队：</font><br><font face="宋体" color=#FFD306><strong>珊瑚宫心海</strong></font>、<font face="宋体" color=#CA8EC2><strong>菲谢尔</strong></font>、<font face="宋体" color=#CA8EC2><strong>北斗</strong></font>、<font face="宋体" color=#CA8EC2><strong>行秋</strong></font>。<br><font face="宋体" color=red>心海武装队和砂糖武装队不一样的是，心海武装队可以随意搭配后三位角色。</font><br></font></p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+  </entry>
+  <entry>
+    <title>Windows NT4.0 安装教程</title>
+    <url>/20230119/063535/</url>
+    <content><![CDATA[<h1 id="镜像链接"><a href="#镜像链接" class="headerlink" title="镜像链接"></a>镜像链接</h1><p><a href="https://pan.huang1111.cn/s/lyBgTL">Click me to download ISO image [FREE!!]</a><br><img src="https://img.gejiba.com/images/27da4e034df0231a2bb7ec09508d6137.png"></p>
+<h1 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h1><p>1.我们通过虚拟机成功引导系统后，可以看到下面界面：<br><img src="https://img.gejiba.com/images/13407dbc2626460c9a71238d7e9add43.jpg"><br>2.按 ENTER 继续，创建分区。<br>要记住，Windows NT 4.0 Service Pack 1 是不支持大硬盘的，所以我们这里只能给系统分 4096 MB 的分区。<br>这里我们随便选择，根据你的需求选择是否 FAT16 还是 NTFS。(不支持 FAT32)<br><img src="https://img.gejiba.com/images/eac95cb4fdc249de0e22c466a8b36c4c.png"><br>静等第一阶段安装完毕后，重启即可。<br>注意！重启一直到安装完成之前，都不可以动任何虚拟机硬件，否则开机会蓝屏。<br>就比如我在第一阶段安装完毕后，添加了一个 Cirrus 显示卡，结果开机蓝屏 0x0000007B<br>3.重启后，开始第二阶段安装<br><img src="https://img.gejiba.com/images/3ccb7f2b8cdfe50abe4ed8bcb0040c1e.png"><br>4.点击“下一步”，选择安装类型，这里我们选择典型。<br><img src="https://img.gejiba.com/images/b6ebcb7ac6c1c161fcdad7d5257f29dd.png"><br>5.输入自己的名字和组织，皆为选填。<br><img src="https://img.gejiba.com/images/7e58b624f0b674e7bb79473b752418fc.png"><br>6.输入 Windows NT 4.0 Workstation 的 [ CD-Key ]。<br><img src="https://img.gejiba.com/images/664496dbed01c7222e6cd7205191470d.jpg"><br>7.输入自己的计算机名称，随便输入。这个名称用于给您电脑命名，供别人在局域网上识别。<br><img src="https://img.gejiba.com/images/320b4cc1d869b9ae53ec921d0e9b318b.png"><br>8.设置管理员账户的密码，酌情而定，我这里不填。<br><img src="https://img.gejiba.com/images/b1aee64d28853da06f1c4f266f063bfa.png"><br>9.这里选择“否”，然后点击“下一步”。<br><img src="https://img.gejiba.com/images/df453d8f0c90b757c6568899e86e2c09.png"><br>10.根据您的需求来挑选，选完之后点击“下一步”。<br><img src="https://img.gejiba.com/images/acf185c6f2093204bc904b30b358946e.png"><br>11.如果您想稍后再设置网络，那就选择“此时不要将计算机连接到网络”。因为我要上网，所以这里会详细讲解如何设置网络。<br><img src="https://img.gejiba.com/images/9932dabfbbb1b2832fd78d83a8662cd6.png"><br>12.点击“开始搜索”，搜寻网卡，搜到了你需要的网卡之后，点击“下一步”。<br><img src="https://img.gejiba.com/images/9b6782f707f703733eec3e05466832f8.jpg"><br>13.这里我们直接“下一步”。<br><img src="https://img.gejiba.com/images/b9b1e73bd8b0ce8e3ce7e479319d00e9.jpg"><br>如果出现一个要设置“网卡 ID”的东西，直接点击“Skip”。<br>14.这里一定要选择“是”，否则系统就不会使用 DHCP，需要你自己配置网络，很麻烦。<br><img src="https://img.gejiba.com/images/632444ae356f000c14cd4ccf84340fc9.jpg"><br>15.点击“下一步”。<br><img src="https://img.gejiba.com/images/796666538ef1ffcaa4d51675da92e3b0.jpg"><br>启用网络后，就开始安装 Windows NT Workstation 了。<br>16.出现显示器设置后，我们点击“65536 色”，然后点击“测试”。<br><img src="https://img.gejiba.com/images/6ecde8d8ac3b2576ab5700a4d45429ac.jpg"><br>如果点击“测试”之后，显示器没有出现异常，那么就可以点击“确定”继续下一步安装了。<br><img src="https://img.gejiba.com/images/f33fae8c67e750c81dcd9b20bd649c7e.jpg"><br>等会系统就安装完成了。<br>后续安装：<br>因为 Windows NT4.0 Service Pack 1 和所附带的 Internet Explorer 3.0 十分古老，我推荐安装 Service Pack 6 之后再安装 Internet Explorer 5.0。<br>17.在安装盘中找到 SP6I386_CN.EXE，打开它，等待复制文件之后点击“安装”。<br><img src="https://img.gejiba.com/images/c38d244a6be2a67afa8663ab97980c16.jpg"><br>18.重启后，再次打开安装盘，找到 “Internet Explorer 5.0” 文件夹。<br>找到“IE5SETUP.EXE”，打开它。<br><img src="https://img.gejiba.com/images/c74b6d6e80737d95f4620993ee2210b5.jpg"><br>等待安装即可。</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+  </entry>
+  <entry>
     <title>无需 U 盘给 MacBook 电脑安装 Arch Linux</title>
     <url>/20230108/134420/</url>
     <content><![CDATA[<p>想装Arch Linux却没有带U盘，心急如焚的话，就看看我这个教程吧！保有效。</p>
@@ -65,6 +84,50 @@
 然后联网，输入以下命令：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">station wlan0 scan</span><br><span class="line">station wlan0 get-networks</span><br><span class="line">station wlan0 connect TestWiFi_5G</span><br></pre></td></tr></table></figure>
 连接好网络后，输入 exit 退出 iwd。再输入 ping <a href="http://www.baidu.com/">www.baidu.com</a> 看看网络是不是正确连接。<h3 id="为磁盘分区"><a href="#为磁盘分区" class="headerlink" title="为磁盘分区"></a>为磁盘分区</h3>未完待续。</li>
 </ul>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+  </entry>
+  <entry>
+    <title>历史锁那(Sana)专辑</title>
+    <url>/20230725/221318/</url>
+    <content><![CDATA[<center>
+
+<p><img src="https://img.gejiba.com/images/167d065688a66751b4bea8bdf4bae325.jpg"></p>
+<h1 id="好きなひと。"><a href="#好きなひと。" class="headerlink" title="好きなひと。"></a>好きなひと。</h1><h2 id="鎖那-×-HoneyWorks-2014-08-17"><a href="#鎖那-×-HoneyWorks-2014-08-17" class="headerlink" title="鎖那 × HoneyWorks [2014.08.17]"></a>鎖那 × HoneyWorks [2014.08.17]</h2><p>价格：120 元（带侧封）<br><img src="https://img.gejiba.com/images/e65d8b14bf54ac8cd181d9343f9d61b0.png" alt="歌曲列表"><br><font color=red><strong>01</strong></font> 未来図<br><font color=red><strong>02</strong></font> 告白予行練習<br><font color=red><strong>03</strong></font> テレカクシ思春期<br><font color=red><strong>04</strong></font> 初恋の絵本<br><font color=red><strong>05</strong></font> 告白ライバル宣言<br><font color=red><strong>06</strong></font> ヤキモチの答え<br><font color=red><strong>07</strong></font> 病名恋ワズライ<br><font color=red><strong>08</strong></font> イノコリ先生<br><font color=red><strong>09</strong></font> ロリババアに恋をした<br><font color=red><strong>10</strong></font> ラズベリー*モンスター</p>
+</center><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+  </entry>
+  <entry>
+    <title>白洋淀公交乘坐体验</title>
+    <url>/20220821/011817/</url>
+    <content><![CDATA[<h1 id="线路走向"><a href="#线路走向" class="headerlink" title="线路走向"></a>线路走向</h1><p>2022 年 8 月 20 日，沧州市任丘市新开到白洋淀李广村<font color=red>（现归雄安新区保定市雄县管辖）</font>的公交：308 路。以下是线路走向。</p>
+<h3 id="308-路-代河枢纽站-李广村"><a href="#308-路-代河枢纽站-李广村" class="headerlink" title="308 路 代河枢纽站 - 李广村"></a>308 路 代河枢纽站 - 李广村</h3><p><font color=green>代河枢纽站-西黄垒村西-于村路口<font color=red>(106国道)</font>-杜家营村-前塔村-后塔村-鄚州镇政府-鄚州镇中心卫生院-南阁村-东七里庄-中七里庄-西七里庄-生紫码头-大口子码头-李广村南-李广村</font><br><img src="https://img.gejiba.com/images/03eb9f97595c40fdcc4b32a1dd089d9b.png"></p>
+<h1 id="乘车日志"><a href="#乘车日志" class="headerlink" title="乘车日志"></a>乘车日志</h1><p>20号下午一点半从市区乘坐202路公交（任丘市客运西站-代河枢纽站）到达北代河。<br><img src="https://img.gejiba.com/images/0b4afc34f40d79694614063114824073.jpg"><br>小歇息后。一点四十308路开始行走。车内座子还是很新的，支持刷卡和刷码。<br><img src="https://img.gejiba.com/images/caabb0a863887deefa35a70dcdfde4b2.jpg"><br>今天天空很好看啊…<br>车子运行还是很快的，最高速度大概 40 km/h。噪音蛮大的。<br>过了于村路口就基本出了任丘界了，驶入鄚州镇。<br><img src="https://img.gejiba.com/images/4c294fd8d37c149493ac12bb8e4efb89.jpg"><br>驾驶到千里堤路的时候，就可以看到白洋淀的河流了。<br>这里有几个旅游码头，308路基本都设置了站点。<br>人还挺多的，比较热闹。<br>然后就到了李广村，本车的终点站。<br><img src="https://img.gejiba.com/images/38e1a10c805be98b163dad05b4c93ab9.jpg"><br>李广村离白洋淀河流还算是挺近的，我在这里拍了一些照片。<br><img src="https://img.gejiba.com/images/3fc817b205738ced7dd3ce1e378a5447.jpg"><br><img src="https://img.gejiba.com/images/bd0f431dfabddf5fd30d250932523d59.jpg"><br><img src="https://img.gejiba.com/images/b1b5d6fb64e809b6c4b3acc160c97807.png" alt="李广村在白洋淀的位置"><br>在近距离观察时，录了一小段视频。<font color=red>【因为 iOS 录制默认格式就是 QuickTime 格式，所以仅限 Apple 设备 (iPhone、Mac、iPod) 可播放此视频】</font><br><a href="https://steve372yeyeye.github.io/20220821/011817/480p.mov">点击播放 QuickTime 视频</a></p>
+<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>白洋淀环境很好，即使是在不是景区的乡村小河，也是很美丽的。<br>有一种很自然很清新的感觉。如果是清晨应该会更有感觉。</p>
+<h1 id="经过码头"><a href="#经过码头" class="headerlink" title="经过码头"></a>经过码头</h1><p>308 路在路途中会经过<font color=green>生紫码头</font>和<font color=green>大口子码头</font>。</p>
+<h1 id="停止运行"><a href="#停止运行" class="headerlink" title="停止运行"></a>停止运行</h1><p>302 路已于 8 月 23 日停止运行。</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+  </entry>
+  <entry>
+    <title>Sanapri bilibili 新视频</title>
+    <url>/20220823/164646/</url>
+    <content><![CDATA[<p>鎖那小天使终于发新视频啦，这里给你们看看～</p>
+<pre><code>Kyu-kurarin (cover) / sana 
+original: きゅうくらりん / いよわ feat.可不 
+vocal: 鎖那  mix: n.k 
+▷https://space.bilibili.com/543245410
+</code></pre>
+<div style="position:relative; padding-bottom:75%; width:100%; height:0">
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1M14y1t7LK&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+</div><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+  </entry>
+  <entry>
+    <title>黑翼猫 Extended Kernel Project 中国网络环境下载</title>
+    <url>/20220818/010924/</url>
+    <content><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>众所周知，因为<font color=green>国内网络环境的特殊</font>，好多网站不能访问。黑翼猫大佬的博客也是如此，在国内访问会提示连接被重置。所以我翻墙后下载了黑翼猫 Windows 2000 Extended Kernel Project 和依赖的补丁集。(包括 wlupdate)</p>
+<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p>关于黑翼猫的 Windows 2000 拓展补丁安装，可以参考这个文章…<a href="https://zhuanlan.zhihu.com/p/484014315">传送点！</a></p>
+<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>下载链接：<a href="https://pan.huang1111.cn/s/4d34hg">点我下载</a></p>
+<h2 id="产品密钥"><a href="#产品密钥" class="headerlink" title="产品密钥"></a>产品密钥</h2><p><font color=red>PQHKR-G4JFW-VTY3P-G4WQ2-88CTW</font><br><img src="https://img.gejiba.com/images/179c2f93582f6652f270c41e07636539.png"></p>
+<h2 id="安装中…"><a href="#安装中…" class="headerlink" title="安装中…"></a>安装中…</h2><p><img src="https://img.gejiba.com/images/20975efcd5f8834d9a0f81dc7047c5e8.png"><br><img src="https://img.gejiba.com/images/eb69053f5eab4d6b2cd8000e2c985296.png"><br><img src="https://img.gejiba.com/images/ea1fa06f63547b60ecc660645cc5240e.png"><br><img src="https://img.gejiba.com/images/1ecefcd2e46809e7174800d584b53e20.png"></p>
+<h2 id="伪装系统版本用的软件"><a href="#伪装系统版本用的软件" class="headerlink" title="伪装系统版本用的软件"></a>伪装系统版本用的软件</h2><p><img src="https://img.gejiba.com/images/b269d479dbb9aab60c0bfcbac371d2ed.png"></p>
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
   </entry>
   <entry>
@@ -273,37 +336,6 @@ Windows 11      std / VMware
 </font><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
   </entry>
   <entry>
-    <title>Windows NT4.0 安装教程</title>
-    <url>/20230119/063535/</url>
-    <content><![CDATA[<h1 id="镜像链接"><a href="#镜像链接" class="headerlink" title="镜像链接"></a>镜像链接</h1><p><a href="https://pan.huang1111.cn/s/lyBgTL">Click me to download ISO image [FREE!!]</a><br><img src="https://img.gejiba.com/images/27da4e034df0231a2bb7ec09508d6137.png"></p>
-<h1 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h1><p>1.我们通过虚拟机成功引导系统后，可以看到下面界面：<br><img src="https://img.gejiba.com/images/13407dbc2626460c9a71238d7e9add43.jpg"><br>2.按 ENTER 继续，创建分区。<br>要记住，Windows NT 4.0 Service Pack 1 是不支持大硬盘的，所以我们这里只能给系统分 4096 MB 的分区。<br>这里我们随便选择，根据你的需求选择是否 FAT16 还是 NTFS。(不支持 FAT32)<br><img src="https://img.gejiba.com/images/eac95cb4fdc249de0e22c466a8b36c4c.png"><br>静等第一阶段安装完毕后，重启即可。<br>注意！重启一直到安装完成之前，都不可以动任何虚拟机硬件，否则开机会蓝屏。<br>就比如我在第一阶段安装完毕后，添加了一个 Cirrus 显示卡，结果开机蓝屏 0x0000007B<br>3.重启后，开始第二阶段安装<br><img src="https://img.gejiba.com/images/3ccb7f2b8cdfe50abe4ed8bcb0040c1e.png"><br>4.点击“下一步”，选择安装类型，这里我们选择典型。<br><img src="https://img.gejiba.com/images/b6ebcb7ac6c1c161fcdad7d5257f29dd.png"><br>5.输入自己的名字和组织，皆为选填。<br><img src="https://img.gejiba.com/images/7e58b624f0b674e7bb79473b752418fc.png"><br>6.输入 Windows NT 4.0 Workstation 的 [ CD-Key ]。<br><img src="https://img.gejiba.com/images/664496dbed01c7222e6cd7205191470d.jpg"><br>7.输入自己的计算机名称，随便输入。这个名称用于给您电脑命名，供别人在局域网上识别。<br><img src="https://img.gejiba.com/images/320b4cc1d869b9ae53ec921d0e9b318b.png"><br>8.设置管理员账户的密码，酌情而定，我这里不填。<br><img src="https://img.gejiba.com/images/b1aee64d28853da06f1c4f266f063bfa.png"><br>9.这里选择“否”，然后点击“下一步”。<br><img src="https://img.gejiba.com/images/df453d8f0c90b757c6568899e86e2c09.png"><br>10.根据您的需求来挑选，选完之后点击“下一步”。<br><img src="https://img.gejiba.com/images/acf185c6f2093204bc904b30b358946e.png"><br>11.如果您想稍后再设置网络，那就选择“此时不要将计算机连接到网络”。因为我要上网，所以这里会详细讲解如何设置网络。<br><img src="https://img.gejiba.com/images/9932dabfbbb1b2832fd78d83a8662cd6.png"><br>12.点击“开始搜索”，搜寻网卡，搜到了你需要的网卡之后，点击“下一步”。<br><img src="https://img.gejiba.com/images/9b6782f707f703733eec3e05466832f8.jpg"><br>13.这里我们直接“下一步”。<br><img src="https://img.gejiba.com/images/b9b1e73bd8b0ce8e3ce7e479319d00e9.jpg"><br>如果出现一个要设置“网卡 ID”的东西，直接点击“Skip”。<br>14.这里一定要选择“是”，否则系统就不会使用 DHCP，需要你自己配置网络，很麻烦。<br><img src="https://img.gejiba.com/images/632444ae356f000c14cd4ccf84340fc9.jpg"><br>15.点击“下一步”。<br><img src="https://img.gejiba.com/images/796666538ef1ffcaa4d51675da92e3b0.jpg"><br>启用网络后，就开始安装 Windows NT Workstation 了。<br>16.出现显示器设置后，我们点击“65536 色”，然后点击“测试”。<br><img src="https://img.gejiba.com/images/6ecde8d8ac3b2576ab5700a4d45429ac.jpg"><br>如果点击“测试”之后，显示器没有出现异常，那么就可以点击“确定”继续下一步安装了。<br><img src="https://img.gejiba.com/images/f33fae8c67e750c81dcd9b20bd649c7e.jpg"><br>等会系统就安装完成了。<br>后续安装：<br>因为 Windows NT4.0 Service Pack 1 和所附带的 Internet Explorer 3.0 十分古老，我推荐安装 Service Pack 6 之后再安装 Internet Explorer 5.0。<br>17.在安装盘中找到 SP6I386_CN.EXE，打开它，等待复制文件之后点击“安装”。<br><img src="https://img.gejiba.com/images/c38d244a6be2a67afa8663ab97980c16.jpg"><br>18.重启后，再次打开安装盘，找到 “Internet Explorer 5.0” 文件夹。<br>找到“IE5SETUP.EXE”，打开它。<br><img src="https://img.gejiba.com/images/c74b6d6e80737d95f4620993ee2210b5.jpg"><br>等待安装即可。</p>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-  </entry>
-  <entry>
-    <title>Sanapri bilibili 新视频</title>
-    <url>/20220823/164646/</url>
-    <content><![CDATA[<p>鎖那小天使终于发新视频啦，这里给你们看看～</p>
-<pre><code>Kyu-kurarin (cover) / sana 
-original: きゅうくらりん / いよわ feat.可不 
-vocal: 鎖那  mix: n.k 
-▷https://space.bilibili.com/543245410
-</code></pre>
-<div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1M14y1t7LK&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
-</div><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-  </entry>
-  <entry>
-    <title>白洋淀公交乘坐体验</title>
-    <url>/20220821/011817/</url>
-    <content><![CDATA[<h1 id="线路走向"><a href="#线路走向" class="headerlink" title="线路走向"></a>线路走向</h1><p>2022 年 8 月 20 日，沧州市任丘市新开到白洋淀李广村<font color=red>（现归雄安新区保定市雄县管辖）</font>的公交：308 路。以下是线路走向。</p>
-<h3 id="308-路-代河枢纽站-李广村"><a href="#308-路-代河枢纽站-李广村" class="headerlink" title="308 路 代河枢纽站 - 李广村"></a>308 路 代河枢纽站 - 李广村</h3><p><font color=green>代河枢纽站-西黄垒村西-于村路口<font color=red>(106国道)</font>-杜家营村-前塔村-后塔村-鄚州镇政府-鄚州镇中心卫生院-南阁村-东七里庄-中七里庄-西七里庄-生紫码头-大口子码头-李广村南-李广村</font><br><img src="https://img.gejiba.com/images/03eb9f97595c40fdcc4b32a1dd089d9b.png"></p>
-<h1 id="乘车日志"><a href="#乘车日志" class="headerlink" title="乘车日志"></a>乘车日志</h1><p>20号下午一点半从市区乘坐202路公交（任丘市客运西站-代河枢纽站）到达北代河。<br><img src="https://img.gejiba.com/images/0b4afc34f40d79694614063114824073.jpg"><br>小歇息后。一点四十308路开始行走。车内座子还是很新的，支持刷卡和刷码。<br><img src="https://img.gejiba.com/images/caabb0a863887deefa35a70dcdfde4b2.jpg"><br>今天天空很好看啊…<br>车子运行还是很快的，最高速度大概 40 km/h。噪音蛮大的。<br>过了于村路口就基本出了任丘界了，驶入鄚州镇。<br><img src="https://img.gejiba.com/images/4c294fd8d37c149493ac12bb8e4efb89.jpg"><br>驾驶到千里堤路的时候，就可以看到白洋淀的河流了。<br>这里有几个旅游码头，308路基本都设置了站点。<br>人还挺多的，比较热闹。<br>然后就到了李广村，本车的终点站。<br><img src="https://img.gejiba.com/images/38e1a10c805be98b163dad05b4c93ab9.jpg"><br>李广村离白洋淀河流还算是挺近的，我在这里拍了一些照片。<br><img src="https://img.gejiba.com/images/3fc817b205738ced7dd3ce1e378a5447.jpg"><br><img src="https://img.gejiba.com/images/bd0f431dfabddf5fd30d250932523d59.jpg"><br><img src="https://img.gejiba.com/images/b1b5d6fb64e809b6c4b3acc160c97807.png" alt="李广村在白洋淀的位置"><br>在近距离观察时，录了一小段视频。<font color=red>【因为 iOS 录制默认格式就是 QuickTime 格式，所以仅限 Apple 设备 (iPhone、Mac、iPod) 可播放此视频】</font><br><a href="https://steve372yeyeye.github.io/20220821/011817/480p.mov">点击播放 QuickTime 视频</a></p>
-<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>白洋淀环境很好，即使是在不是景区的乡村小河，也是很美丽的。<br>有一种很自然很清新的感觉。如果是清晨应该会更有感觉。</p>
-<h1 id="经过码头"><a href="#经过码头" class="headerlink" title="经过码头"></a>经过码头</h1><p>308 路在路途中会经过<font color=green>生紫码头</font>和<font color=green>大口子码头</font>。</p>
-<h1 id="停止运行"><a href="#停止运行" class="headerlink" title="停止运行"></a>停止运行</h1><p>302 路已于 8 月 23 日停止运行。</p>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-  </entry>
-  <entry>
     <title>计算机基础操作</title>
     <url>/20220910/083627/</url>
     <content><![CDATA[<p>为了让各位用户都能会用 Windows，特此写下该教程。<br>Windows 是微软公司于 1985 年发布的电脑操作系统，最新版是 Windows 11(2021 年发布)。<br>这里我们都以<font color=#66CCF> Windows 8.1 With Update</font> 版本为例子。<br><font face="宋体"></p>
@@ -331,29 +363,6 @@ vocal: 鎖那  mix: n.k
 <h1 id="管理您计算机上的文件"><a href="#管理您计算机上的文件" class="headerlink" title="管理您计算机上的文件"></a>管理您计算机上的文件</h1><p>如果需要管理器您计算机上的软件，请点击“这台电脑”。随便点进一个盘。<br><img src="https://img.gejiba.com/images/ad0a02ed187c07c21ea51d40eb14b5fc.png"><br>这里列出了这盘上面的所有内容。<br>如果要复制一个文件，请在要复制的文件旁点击鼠标右键，然后点击“复制(C)”。<br><img src="https://img.gejiba.com/images/4f205db2d4061a45f27c59dd28a4027c.png"><br>然后前往要复制到的文件夹，然后右键点击“粘贴(P)”。<br><img src="https://img.gejiba.com/images/ea444b06cac589002a3da8bebde66591.png"><br>这样，文件就复制好了。<br>我们只需要移动文件的时候点击“剪切(T)”即可。</p>
 <h1 id="卸载软件"><a href="#卸载软件" class="headerlink" title="卸载软件"></a>卸载软件</h1><p>有时候我们不想要一些软件，这时可以卸载软件。<br>打开 控制面板，然后找到 <font color=#66CCF>程序与功能</font><br><img src="https://img.gejiba.com/images/403509da174a2c1c63628db60d205ad3.png"><br>然后，双击要卸载的软件，跟着软件走即可。<br><img src="https://img.gejiba.com/images/2f06c1f1ee32d3752ed1876222740794.png"><br><img src="https://img.gejiba.com/images/20196f123882172b4f12a00d39411252.png"></p>
 <h1 id="命令提示符"><a href="#命令提示符" class="headerlink" title="命令提示符"></a>命令提示符</h1><p><font color=red>注意！专业人士使用。</font><br>Windows 中的终端叫做命令提示符，我们可以利用终端做很多事情。请先按下 Windows+R 键然后输入 cmd。<br><img src="https://img.gejiba.com/images/8ec9d0d197ae975dc233a799032b0a5a.png"><br>然后会打开一个黑色命令窗口，我们在此输入命令即可。比如我要查看系统版本，输入：<br><img src="https://img.gejiba.com/images/19587c4ac59a01e5359fb3584f29e211.png"><br>就可以查看了。要清屏可以输入 cls。<br></font></p>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-  </entry>
-  <entry>
-    <title>珊瑚宫心海养成指南</title>
-    <url>/20220915/233651/</url>
-    <content><![CDATA[<p><font  face="宋体">献给各位抽到心海的同学们~</font><br><font  face="宋体"><br><img src="https://img.gejiba.com/images/9b0eb764a0ac82311a641c0c879ec1ec.jpg"><br><img src="https://img.gejiba.com/images/32d21d0e305c9d5a21a56fb8dc992737.gif"></p>
-<h2 id="圣遗物"><a href="#圣遗物" class="headerlink" title="圣遗物"></a>圣遗物</h2><p>建议使用<font face="宋体" color=#9393FF><strong>海</font><font  face="宋体" color=#FF60AF>染</font><font face="宋体" color=#46A3FF>四件套</strong></font>。<br>双爆<font face="宋体" color=red><strong>越少越好，不要堆双爆</strong></font>。</p>
-<h3 id="词条"><a href="#词条" class="headerlink" title="词条"></a>词条</h3><p><font  face="宋体">生之花：<font face="宋体" color=red><strong>生命值</strong></font><br><img src="https://img.gejiba.com/images/07ad11abca89d87bd1ae38612e54cbe4.jpg"><br>死之羽：<font face="宋体" color=red><strong>攻击力</strong></font><br><img src="https://img.gejiba.com/images/ea4acec0d7fd5b0ff0bb789fb965d28e.jpg"><br>理之冠：<font color=red><strong>治疗加成</strong></font>（可以使用生命）<br><img src="https://img.gejiba.com/images/6865e4d0d785f80d26c9b51409787372.jpg"><br>时之沙：<font color=red><strong>生命值</strong></font><br><img src="https://img.gejiba.com/images/d7763d67dab5e0bc3a78c0f63c197824.jpg"><br>空之杯：<font color=red><strong>水元素伤害加成</strong></font><br><img src="https://img.gejiba.com/images/989b021bb7fa09b6cfa7cf591337f2dd.jpg"><br></font></p>
-<h2 id="武器"><a href="#武器" class="headerlink" title="武器"></a>武器</h2><p>使用<font face="宋体" color=#CA8EC2><strong>试作金铂</strong></font>即可。如果追求更高可以抽取<font color=#FFD306><strong>不灭月华</strong></font>。</p>
-<h2 id="命座"><a href="#命座" class="headerlink" title="命座"></a>命座</h2><p>零命即可，一般没必要抽取命座。</p>
-<h2 id="组队"><a href="#组队" class="headerlink" title="组队"></a>组队</h2><p>可以放进<b>“神鹤万心”</b>配合打永冻流：<br><font color=#FFD306><strong>神里绫华</strong></font>、<font color=#FFD306><strong>珊瑚宫心海</strong></font>、<font color=#FFD306><strong>申鹤</strong></font>、<font color=#FFD306><strong>枫原万叶</strong></font>。</p>
-<p><font face="宋体">还有心海武装队：</font><br><font face="宋体" color=#FFD306><strong>珊瑚宫心海</strong></font>、<font face="宋体" color=#CA8EC2><strong>菲谢尔</strong></font>、<font face="宋体" color=#CA8EC2><strong>北斗</strong></font>、<font face="宋体" color=#CA8EC2><strong>行秋</strong></font>。<br><font face="宋体" color=red>心海武装队和砂糖武装队不一样的是，心海武装队可以随意搭配后三位角色。</font><br></font></p>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-  </entry>
-  <entry>
-    <title>黑翼猫 Extended Kernel Project 中国网络环境下载</title>
-    <url>/20220818/010924/</url>
-    <content><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>众所周知，因为<font color=green>国内网络环境的特殊</font>，好多网站不能访问。黑翼猫大佬的博客也是如此，在国内访问会提示连接被重置。所以我翻墙后下载了黑翼猫 Windows 2000 Extended Kernel Project 和依赖的补丁集。(包括 wlupdate)</p>
-<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p>关于黑翼猫的 Windows 2000 拓展补丁安装，可以参考这个文章…<a href="https://zhuanlan.zhihu.com/p/484014315">传送点！</a></p>
-<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>下载链接：<a href="https://pan.huang1111.cn/s/4d34hg">点我下载</a></p>
-<h2 id="产品密钥"><a href="#产品密钥" class="headerlink" title="产品密钥"></a>产品密钥</h2><p><font color=red>PQHKR-G4JFW-VTY3P-G4WQ2-88CTW</font><br><img src="https://img.gejiba.com/images/179c2f93582f6652f270c41e07636539.png"></p>
-<h2 id="安装中…"><a href="#安装中…" class="headerlink" title="安装中…"></a>安装中…</h2><p><img src="https://img.gejiba.com/images/20975efcd5f8834d9a0f81dc7047c5e8.png"><br><img src="https://img.gejiba.com/images/eb69053f5eab4d6b2cd8000e2c985296.png"><br><img src="https://img.gejiba.com/images/ea1fa06f63547b60ecc660645cc5240e.png"><br><img src="https://img.gejiba.com/images/1ecefcd2e46809e7174800d584b53e20.png"></p>
-<h2 id="伪装系统版本用的软件"><a href="#伪装系统版本用的软件" class="headerlink" title="伪装系统版本用的软件"></a>伪装系统版本用的软件</h2><p><img src="https://img.gejiba.com/images/b269d479dbb9aab60c0bfcbac371d2ed.png"></p>
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
   </entry>
 </search>
