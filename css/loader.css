@@ -12,7 +12,7 @@
   z-index: 1000;
   width: 50%;
   height: 100%;
-  background-color: rgba(255,255,255,0.9);
+  background-color: #fff;
   transition: all 0.8s ease;
 }
 #loader .loading-right-bg {
@@ -20,7 +20,7 @@
   z-index: 1000;
   width: 50%;
   height: 100%;
-  background-color: rgba(255,255,255,0.9);
+  background-color: #fff;
   transition: all 0.8s ease;
   right: 0;
 }
@@ -38,7 +38,7 @@
 #loader .spinner-box .loading-taichi {
   opacity: 0.65;
   animation: rotate-all 2s infinite;
-  animation-timing-function: linear;
+  animation-timing-function: ease;
 }
 #loader .spinner-box .loading-word {
   position: absolute;
@@ -48,7 +48,7 @@
   transform: translate(-50%, -50%);
   font-size: 1.2rem;
   font-weight: 700;
-  font-family: Mulish, 'Noto Serif SC', 'Noto Serif JP', Mulish, -apple-system, 'PingFang SC', 'Microsoft Jhenghei', sans-serif;
+  font-family: Mulish, 'Noto Serif SC', 'Noto Serif JP', Mulish, -apple-system, 'PingFang SC', 'Microsoft Jhenghei';
 }
 #loader.loading .loading-left-bg {
   transform: translate(-100%, 0);
