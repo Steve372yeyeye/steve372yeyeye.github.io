@@ -12,16 +12,16 @@
   z-index: 1000;
   width: 50%;
   height: 100%;
-  background-color: #fff;
-  transition: all 0.8s ease;
+  background-color: #fff0ff;
+  transition: all 1.5s ease;
 }
 #loader .loading-right-bg {
   position: fixed;
   z-index: 1000;
   width: 50%;
   height: 100%;
-  background-color: #fff;
-  transition: all 0.8s ease;
+  background-color: #def0ff;
+  transition: all 1.5s ease;
   right: 0;
 }
 #loader .spinner-box {
@@ -36,13 +36,13 @@
   transition: all 0.5s ease;
 }
 #loader .spinner-box .loading-taichi {
-  opacity: 0.65;
-  animation: rotate-all 2s infinite;
+  opacity: 1;
+  animation: rotate-all 2.5s infinite;
   animation-timing-function: ease;
 }
 #loader .spinner-box .loading-word {
   position: absolute;
-  color: rgba(255,0,0,0.65);
+  color: #f00000;
   top: calc(50% + 100px);
   left: 50%;
   transform: translate(-50%, -50%);
@@ -54,7 +54,7 @@
   transform: translate(200%, 0);
 }
 #loader.loading .loading-right-bg {
-  transform: translate(200%, 0);
+  transform: translate(-200%, 0);
 }
 #loader.loading .spinner-box {
   opacity: 0;
