@@ -369,8 +369,14 @@ Windows 中的终端叫做命令提示符，我们可以利用终端做很多事
             
         </div>
         <footer class="article-footer">
-            <a data-url="http://example.com/20220910/083627/" data-id="cllgw2etc001mm8fyggu7ak4k" data-title="计算机基础操作"
+            <a data-url="http://example.com/20220910/083627/" data-id="cllhy59z9001l2dfyahq3crd6" data-title="计算机基础操作"
                class="article-share-link">分享</a>
+            
+                <a href="/20220910/083627/#comments" class="article-comment-link">
+                    <span class="post-comments-count valine-comment-count" data-xid="/20220910/083627/"
+                          itemprop="commentCount"></span>
+                    留言
+                </a>
             
             
             
@@ -420,6 +426,10 @@ Windows 中的终端叫做命令提示符，我们可以利用终端做很多事
     
 </article>
 
+
+    <section id="comments" class="vcomment">
+
+    </section>
 
 
 
@@ -644,6 +654,30 @@ Windows 中的终端叫做命令提示符，我们可以利用终端做很多事
 
 
 
+
+    
+<script src="https://unpkg.com/valine@1.5.1/dist/Valine.min.js"></script>
+
+    <script>
+        var GUEST_INFO = ['nick', 'mail', 'link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function (item) {
+            return GUEST_INFO.indexOf(item) > -1
+        });
+        var recordIP = JSON.parse('true');
+        var highlight = JSON.parse('true');
+
+        new Valine({
+            el: '.vcomment',
+            appId: "BDmerTFfCbwfAcBjrBsJ5ey2-MdYXbMMI",
+            appKey: "6JPPpqFYseWCOQ53iaAAvTn4",
+            placeholder: "Just go go",
+            pageSize: '10',
+            avatar: 'mp',
+            lang: 'zh-cn',
+            recordIP: recordIP,
+            highlight: highlight
+        });
+    </script>
 
 
 

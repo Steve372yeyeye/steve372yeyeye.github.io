@@ -261,8 +261,14 @@
             
         </div>
         <footer class="article-footer">
-            <a data-url="http://example.com/20230817/154130/" data-id="cllgw2et20003m8fy2r8qgwvc" data-title="Reimu 主题去除东方 PROJECT 元素"
+            <a data-url="http://example.com/20230817/154130/" data-id="cllhy59z000032dfyevj0hytr" data-title="Reimu 主题去除东方 PROJECT 元素"
                class="article-share-link">分享</a>
+            
+                <a href="/20230817/154130/#comments" class="article-comment-link">
+                    <span class="post-comments-count valine-comment-count" data-xid="/20230817/154130/"
+                          itemprop="commentCount"></span>
+                    留言
+                </a>
             
             
             
@@ -311,6 +317,10 @@
     
 </article>
 
+
+    <section id="comments" class="vcomment">
+
+    </section>
 
 
 
@@ -535,6 +545,30 @@
 
 
 
+
+    
+<script src="https://unpkg.com/valine@1.5.1/dist/Valine.min.js"></script>
+
+    <script>
+        var GUEST_INFO = ['nick', 'mail', 'link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function (item) {
+            return GUEST_INFO.indexOf(item) > -1
+        });
+        var recordIP = JSON.parse('true');
+        var highlight = JSON.parse('true');
+
+        new Valine({
+            el: '.vcomment',
+            appId: "BDmerTFfCbwfAcBjrBsJ5ey2-MdYXbMMI",
+            appKey: "6JPPpqFYseWCOQ53iaAAvTn4",
+            placeholder: "Just go go",
+            pageSize: '10',
+            avatar: 'mp',
+            lang: 'zh-cn',
+            recordIP: recordIP,
+            highlight: highlight
+        });
+    </script>
 
 
 

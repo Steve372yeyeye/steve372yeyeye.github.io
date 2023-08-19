@@ -299,8 +299,14 @@ version.sque - 应用程序的版本。
             
         </div>
         <footer class="article-footer">
-            <a data-url="http://example.com/pier/index.html" data-id="cllgw2et8000sm8fy8uzl35qc" data-title="Pier 软件包管理器"
+            <a data-url="http://example.com/pier/index.html" data-id="cllhy59z5000s2dfyag7h1vfp" data-title="Pier 软件包管理器"
                class="article-share-link">分享</a>
+            
+                <a href="/pier/index.html#comments" class="article-comment-link">
+                    <span class="post-comments-count valine-comment-count" data-xid="/pier/index.html"
+                          itemprop="commentCount"></span>
+                    留言
+                </a>
             
             
             
@@ -314,6 +320,10 @@ version.sque - 应用程序的版本。
     
 </article>
 
+
+    <section id="comments" class="vcomment">
+
+    </section>
 
 
 
@@ -538,6 +548,30 @@ version.sque - 应用程序的版本。
 
 
 
+
+    
+<script src="https://unpkg.com/valine@1.5.1/dist/Valine.min.js"></script>
+
+    <script>
+        var GUEST_INFO = ['nick', 'mail', 'link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function (item) {
+            return GUEST_INFO.indexOf(item) > -1
+        });
+        var recordIP = JSON.parse('true');
+        var highlight = JSON.parse('true');
+
+        new Valine({
+            el: '.vcomment',
+            appId: "BDmerTFfCbwfAcBjrBsJ5ey2-MdYXbMMI",
+            appKey: "6JPPpqFYseWCOQ53iaAAvTn4",
+            placeholder: "Just go go",
+            pageSize: '10',
+            avatar: 'mp',
+            lang: 'zh-cn',
+            recordIP: recordIP,
+            highlight: highlight
+        });
+    </script>
 
 
 

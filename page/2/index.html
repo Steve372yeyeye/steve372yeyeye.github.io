@@ -619,6 +619,30 @@ Windows 和 Linux 也可以降级，比较麻烦。不能使用此教程。这�
 
 
 
+    
+<script src="https://unpkg.com/valine@1.5.1/dist/Valine.min.js"></script>
+
+    <script>
+        var GUEST_INFO = ['nick', 'mail', 'link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function (item) {
+            return GUEST_INFO.indexOf(item) > -1
+        });
+        var recordIP = JSON.parse('true');
+        var highlight = JSON.parse('true');
+
+        new Valine({
+            el: '.vcomment',
+            appId: "BDmerTFfCbwfAcBjrBsJ5ey2-MdYXbMMI",
+            appKey: "6JPPpqFYseWCOQ53iaAAvTn4",
+            placeholder: "Just go go",
+            pageSize: '10',
+            avatar: 'mp',
+            lang: 'zh-cn',
+            recordIP: recordIP,
+            highlight: highlight
+        });
+    </script>
+
 
 
 

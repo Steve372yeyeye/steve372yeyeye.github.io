@@ -209,8 +209,14 @@
             
         </div>
         <footer class="article-footer">
-            <a data-url="http://example.com/emailsender/help.html" data-id="cllgw2et40007m8fy181mfrab" data-title="E-mail Sender 帮助中心"
+            <a data-url="http://example.com/emailsender/help.html" data-id="cllhy59z200092dfy2wjob3te" data-title="E-mail Sender 帮助中心"
                class="article-share-link">分享</a>
+            
+                <a href="/emailsender/help.html#comments" class="article-comment-link">
+                    <span class="post-comments-count valine-comment-count" data-xid="/emailsender/help.html"
+                          itemprop="commentCount"></span>
+                    留言
+                </a>
             
             
             
@@ -224,6 +230,10 @@
     
 </article>
 
+
+    <section id="comments" class="vcomment">
+
+    </section>
 
 
 
@@ -448,6 +458,30 @@
 
 
 
+
+    
+<script src="https://unpkg.com/valine@1.5.1/dist/Valine.min.js"></script>
+
+    <script>
+        var GUEST_INFO = ['nick', 'mail', 'link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function (item) {
+            return GUEST_INFO.indexOf(item) > -1
+        });
+        var recordIP = JSON.parse('true');
+        var highlight = JSON.parse('true');
+
+        new Valine({
+            el: '.vcomment',
+            appId: "BDmerTFfCbwfAcBjrBsJ5ey2-MdYXbMMI",
+            appKey: "6JPPpqFYseWCOQ53iaAAvTn4",
+            placeholder: "Just go go",
+            pageSize: '10',
+            avatar: 'mp',
+            lang: 'zh-cn',
+            recordIP: recordIP,
+            highlight: highlight
+        });
+    </script>
 
 
 

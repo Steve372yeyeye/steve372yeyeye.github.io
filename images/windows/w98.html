@@ -266,8 +266,14 @@
             
         </div>
         <footer class="article-footer">
-            <a data-url="http://example.com/images/windows/w98.html" data-id="cllgw2eta001em8fy1ufp7aq3" data-title="下载 Windows 98"
+            <a data-url="http://example.com/images/windows/w98.html" data-id="cllhy59z8001f2dfycq0d2i25" data-title="下载 Windows 98"
                class="article-share-link">分享</a>
+            
+                <a href="/images/windows/w98.html#comments" class="article-comment-link">
+                    <span class="post-comments-count valine-comment-count" data-xid="/images/windows/w98.html"
+                          itemprop="commentCount"></span>
+                    留言
+                </a>
             
             
             
@@ -281,6 +287,10 @@
     
 </article>
 
+
+    <section id="comments" class="vcomment">
+
+    </section>
 
 
 
@@ -505,6 +515,30 @@
 
 
 
+
+    
+<script src="https://unpkg.com/valine@1.5.1/dist/Valine.min.js"></script>
+
+    <script>
+        var GUEST_INFO = ['nick', 'mail', 'link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function (item) {
+            return GUEST_INFO.indexOf(item) > -1
+        });
+        var recordIP = JSON.parse('true');
+        var highlight = JSON.parse('true');
+
+        new Valine({
+            el: '.vcomment',
+            appId: "BDmerTFfCbwfAcBjrBsJ5ey2-MdYXbMMI",
+            appKey: "6JPPpqFYseWCOQ53iaAAvTn4",
+            placeholder: "Just go go",
+            pageSize: '10',
+            avatar: 'mp',
+            lang: 'zh-cn',
+            recordIP: recordIP,
+            highlight: highlight
+        });
+    </script>
 
 
 
